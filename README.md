@@ -48,13 +48,26 @@ This resource provides a notebook for downstream analysis of clinical and genomi
 
 **Overall**, this notebook integrates clinical data, comorbidity profiles, and genomic association studies to characterize cancer risk and morbidity in South Asian populations, providing a foundation for downstream functional analysis and translational research.
 
----
-
-
----
-
 ## Prerequisites
 - Python 3.9+
+
+## Input Folder Paths in Notebook
+**result_path**: Directory containing input CSV/TSV files for comorbidities, prevalence, XWAS, PheWAS, and GEL results.
+**plot_path**: Directory to save generated figures (publication-ready PNGs).
+**text_path**: Directory to save processed tables and filtered gene/variant association files.
+**manhattan_path**: Subdirectory for Manhattan plot-related ExWAS and PheWAS summary stastics files (only one provided for demonstration reason)
+
+
+## Output Folder Paths in Notebook
+
+**Figures**: Saved inplots/publication/ and subfolders.
+**Processed Tables**: Saved in text/ for downstream interpretation.
+
+## Usage
+
+Create directories as directed in the notebook.
+Open and run the notebook SouthAsian_Cancer_Analysis.ipynb.
+Figures and tables will be automatically saved to the designated paths.
 
 ## License
 This project is provided for research purposes. Please cite appropriately when using data or figures derived from this analysis.
