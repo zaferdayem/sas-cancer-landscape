@@ -1,0 +1,118 @@
+cancer	action	gene_count	sample_count	consequence	hit_count	hit_prop
+All	Non-responsive	9	2199	LoF	22	1.000454752
+All	Responsive	33	2199	LoF	68	3.092314688
+All	Non-responsive	9	2199	LoF+Deleterious	107	4.865848113
+All	Responsive	33	2199	LoF+Deleterious	300	13.6425648
+All	Non-responsive	9	2199	LoF+Deleterious+Possibly Deleterious	356	16.1891769
+All	Responsive	33	2199	LoF+Deleterious+Possibly Deleterious	1138	51.75079582
+Any	Responsive		2199	LoF	106	4.820372897
+Any	Non-responsive		2199	LoF	27	1.227830832
+Any	Responsive		2199	LoF+Deleterious	466	21.19145066
+Any	Non-responsive		2199	LoF+Deleterious	147	6.684856753
+Any	Responsive		2199	LoF+Deleterious+Possibly Deleterious	1506	68.48567531
+Any	Non-responsive		2199	LoF+Deleterious+Possibly Deleterious	504	22.91950887
+Bladder	Non-responsive	1	135	LoF	0	0
+Bladder	Responsive	11	135	LoF	1	0.740740741
+Bladder	Non-responsive	1	135	LoF+Deleterious	0	0
+Bladder	Responsive	11	135	LoF+Deleterious	15	11.11111111
+Bladder	Non-responsive	1	135	LoF+Deleterious+Possibly Deleterious	0	0
+Bladder	Responsive	11	135	LoF+Deleterious+Possibly Deleterious	47	34.81481481
+Breast	Non-responsive	5	332	LoF	0	0
+Breast	Responsive	13	332	LoF	12	3.614457831
+Breast	Non-responsive	5	332	LoF+Deleterious	2	0.602409639
+Breast	Responsive	13	332	LoF+Deleterious	21	6.325301205
+Breast	Non-responsive	5	332	LoF+Deleterious+Possibly Deleterious	23	6.927710843
+Breast	Responsive	13	332	LoF+Deleterious+Possibly Deleterious	117	35.24096386
+Cervical	Responsive	2	111	LoF	0	0
+Cervical	Responsive	2	111	LoF+Deleterious	0	0
+Cervical	Responsive	2	111	LoF+Deleterious+Possibly Deleterious	0	0
+Colorectal	Non-responsive	10	202	LoF	0	0
+Colorectal	Responsive	11	202	LoF	2	0.99009901
+Colorectal	Non-responsive	10	202	LoF+Deleterious	2	0.99009901
+Colorectal	Responsive	11	202	LoF+Deleterious	16	7.920792079
+Colorectal	Non-responsive	10	202	LoF+Deleterious+Possibly Deleterious	16	7.920792079
+Colorectal	Responsive	11	202	LoF+Deleterious+Possibly Deleterious	61	30.1980198
+Digestive	Non-responsive	12	445	LoF	0	0
+Digestive	Responsive	23	445	LoF	14	3.146067416
+Digestive	Non-responsive	12	445	LoF+Deleterious	5	1.123595506
+Digestive	Responsive	23	445	LoF+Deleterious	63	14.15730337
+Digestive	Non-responsive	12	445	LoF+Deleterious+Possibly Deleterious	41	9.213483146
+Digestive	Responsive	23	445	LoF+Deleterious+Possibly Deleterious	206	46.29213483
+Endocrine	Non-responsive	1	129	LoF	0	0
+Endocrine	Responsive	7	129	LoF	0	0
+Endocrine	Non-responsive	1	129	LoF+Deleterious	0	0
+Endocrine	Responsive	7	129	LoF+Deleterious	7	5.426356589
+Endocrine	Non-responsive	1	129	LoF+Deleterious+Possibly Deleterious	3	2.325581395
+Endocrine	Responsive	7	129	LoF+Deleterious+Possibly Deleterious	18	13.95348837
+Gynaecological	Non-responsive	4	284	LoF	0	0
+Gynaecological	Responsive	24	284	LoF	14	4.929577465
+Gynaecological	Non-responsive	4	284	LoF+Deleterious	8	2.816901408
+Gynaecological	Responsive	24	284	LoF+Deleterious	34	11.97183099
+Gynaecological	Non-responsive	4	284	LoF+Deleterious+Possibly Deleterious	30	10.56338028
+Gynaecological	Responsive	24	284	LoF+Deleterious+Possibly Deleterious	141	49.64788732
+Haematological	Non-responsive	6	384	LoF	1	0.260416667
+Haematological	Responsive	29	384	LoF	11	2.864583333
+Haematological	Non-responsive	6	384	LoF+Deleterious	12	3.125
+Haematological	Responsive	29	384	LoF+Deleterious	55	14.32291667
+Haematological	Non-responsive	6	384	LoF+Deleterious+Possibly Deleterious	52	13.54166667
+Haematological	Responsive	29	384	LoF+Deleterious+Possibly Deleterious	193	50.26041667
+Kidney	Responsive	6	149	LoF	1	0.67114094
+Kidney	Responsive	6	149	LoF+Deleterious	8	5.369127517
+Kidney	Responsive	6	149	LoF+Deleterious+Possibly Deleterious	33	22.14765101
+Lung	Non-responsive	10	102	LoF	1	0.980392157
+Lung	Responsive	17	102	LoF	1	0.980392157
+Lung	Non-responsive	10	102	LoF+Deleterious	9	8.823529412
+Lung	Responsive	17	102	LoF+Deleterious	10	9.803921569
+Lung	Non-responsive	10	102	LoF+Deleterious+Possibly Deleterious	30	29.41176471
+Lung	Responsive	17	102	LoF+Deleterious+Possibly Deleterious	46	45.09803922
+Lymphoma	Responsive	7	152	LoF	0	0
+Lymphoma	Responsive	7	152	LoF+Deleterious	7	4.605263158
+Lymphoma	Responsive	7	152	LoF+Deleterious+Possibly Deleterious	28	18.42105263
+Non-Melanoma Skin	Non-responsive	1	96	LoF	0	0
+Non-Melanoma Skin	Responsive	1	96	LoF	0	0
+Non-Melanoma Skin	Non-responsive	1	96	LoF+Deleterious	0	0
+Non-Melanoma Skin	Responsive	1	96	LoF+Deleterious	0	0
+Non-Melanoma Skin	Non-responsive	1	96	LoF+Deleterious+Possibly Deleterious	1	1.041666667
+Non-Melanoma Skin	Responsive	1	96	LoF+Deleterious+Possibly Deleterious	5	5.208333333
+Ovarian	Non-responsive	1	90	LoF	0	0
+Ovarian	Responsive	16	90	LoF	7	7.777777778
+Ovarian	Non-responsive	1	90	LoF+Deleterious	0	0
+Ovarian	Responsive	16	90	LoF+Deleterious	10	11.11111111
+Ovarian	Non-responsive	1	90	LoF+Deleterious+Possibly Deleterious	6	6.666666667
+Ovarian	Responsive	16	90	LoF+Deleterious+Possibly Deleterious	33	36.66666667
+Prostate	Responsive	16	157	LoF	6	3.821656051
+Prostate	Responsive	16	157	LoF+Deleterious	26	16.56050955
+Prostate	Responsive	16	157	LoF+Deleterious+Possibly Deleterious	80	50.95541401
+Respiratory	Non-responsive	10	116	LoF	3	2.586206897
+Respiratory	Responsive	19	116	LoF	3	2.586206897
+Respiratory	Non-responsive	10	116	LoF+Deleterious	11	9.482758621
+Respiratory	Responsive	19	116	LoF+Deleterious	13	11.20689655
+Respiratory	Non-responsive	10	116	LoF+Deleterious+Possibly Deleterious	34	29.31034483
+Respiratory	Responsive	19	116	LoF+Deleterious+Possibly Deleterious	53	45.68965517
+Skin	Non-responsive	12	122	LoF	1	0.819672131
+Skin	Responsive	15	122	LoF	2	1.639344262
+Skin	Non-responsive	12	122	LoF+Deleterious	4	3.278688525
+Skin	Responsive	15	122	LoF+Deleterious	5	4.098360656
+Skin	Non-responsive	12	122	LoF+Deleterious+Possibly Deleterious	23	18.85245902
+Skin	Responsive	15	122	LoF+Deleterious+Possibly Deleterious	29	23.7704918
+Solid	Responsive	1	1846	LoF	0	0
+Solid	Responsive	1	1846	LoF+Deleterious	0	0
+Solid	Responsive	1	1846	LoF+Deleterious+Possibly Deleterious	124	6.717226436
+Thyroid	Non-responsive	1	93	LoF	0	0
+Thyroid	Responsive	6	93	LoF	0	0
+Thyroid	Non-responsive	1	93	LoF+Deleterious	0	0
+Thyroid	Responsive	6	93	LoF+Deleterious	4	4.301075269
+Thyroid	Non-responsive	1	93	LoF+Deleterious+Possibly Deleterious	3	3.225806452
+Thyroid	Responsive	6	93	LoF+Deleterious+Possibly Deleterious	10	10.75268817
+Urinary	Non-responsive	1	175	LoF	0	0
+Urinary	Responsive	14	175	LoF	2	1.142857143
+Urinary	Non-responsive	1	175	LoF+Deleterious	0	0
+Urinary	Responsive	14	175	LoF+Deleterious	22	12.57142857
+Urinary	Non-responsive	1	175	LoF+Deleterious+Possibly Deleterious	0	0
+Urinary	Responsive	14	175	LoF+Deleterious+Possibly Deleterious	76	43.42857143
+Uterine	Non-responsive	3	76	LoF	0	0
+Uterine	Responsive	11	76	LoF	0	0
+Uterine	Non-responsive	3	76	LoF+Deleterious	2	2.631578947
+Uterine	Responsive	11	76	LoF+Deleterious	6	7.894736842
+Uterine	Non-responsive	3	76	LoF+Deleterious+Possibly Deleterious	3	3.947368421
+Uterine	Responsive	11	76	LoF+Deleterious+Possibly Deleterious	18	23.68421053

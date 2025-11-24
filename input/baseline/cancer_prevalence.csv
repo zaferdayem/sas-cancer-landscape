@@ -1,0 +1,24 @@
+﻿Site,Cancer,Size,Prop,Exome_count,Color
+Primary,Lung,130,0.0023,102,midnightblue
+Group,Respiratory,149,0.0026,116,midnightblue
+Primary,Non-Melanoma Skin,129,0.0022,96,yellow
+Group,Skin,159,0.0028,122,yellow
+Primary,Thyroid,121,0.0021,93,coral
+Group,Endocrine,164,0.0029,135,coral
+Primary,Bladder,163,0.0028,129,lightblue
+Primary,Kidney,182,0.0032,149,lightblue
+Group,Urinary,212,0.0037,175,lightblue
+Primary,Prostate,196,0.0077,157,purple
+Group,Male Genital,222,0.0087,177,purple
+Primary,Uterine,102,0.0032,76,hotpink
+Primary,Ovarian,117,0.0037,90,hotpink
+Primary,Cervical,137,0.0043,111,hotpink
+Group,Gynaecological,361,0.0113,284,hotpink
+Primary,Breast,428,0.0134,332,pink
+Group,Secondary,479,0.0083,393,pink
+Primary,Lymphoma,193,0.0034,152,red
+Group,Haematopoietic,515,0.0090,384,red
+Primary,Colorectal,241,0.0042,202,green
+Group,Digestive,534,0.0093,445,green
+Group,Solid,2312,0.0403,1846,chocolate
+Group,All,2782,0.0485,2199,black

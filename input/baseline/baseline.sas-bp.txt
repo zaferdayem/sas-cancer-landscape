@@ -1,0 +1,592 @@
+Category	Value	Population	Cancer	Count	Prop
+Gender	Female	31892	All	1573.0	4.932271416029098
+Gender	Male	25524	All	1209.0	4.736718382698637
+Ethnicity	Bangladeshi	33353	All	1457.0	4.368422630647918
+Ethnicity	Pakistani	24063	All	1325.0	5.506379088226738
+BirthCountry	Unknown	36260	All	1756.0	4.842801985659128
+BirthCountry	Bangladesh	14054	All	675.0	4.8029030880888
+BirthCountry	Pakistan	4297	All	255.0	5.934372818245287
+BirthCountry	Great Britain	2369	All	72.0	3.0392570704938793
+BirthCountry	Other	351	All	14.0	3.988603988603989
+BirthCountry	India	85	All	10.0	11.764705882352942
+Region	London	50174	All	2473.0	4.9288476103161
+Region	Bradford 	5239	All	242.0	4.61920213781256
+Region	Manchester	1562	All	57.0	3.649167733674776
+Region		441	All	10.0	2.2675736961451247
+Smoking	Not known	24612	All	984.0	3.998049731838128
+Smoking	Former Smoker	13761	All	929.0	6.75096286607078
+Smoking	Non-Smoker	11964	All	450.0	3.761283851554664
+Smoking	Current Smoker	7079	All	419.0	5.918915101002966
+Alcohol	Not known	27632	All	1151.0	4.165460335842502
+Alcohol	Non-Drinker	20319	All	1056.0	5.197106156799055
+Alcohol	Former Drinker	7325	All	475.0	6.484641638225256
+Alcohol	Current Drinker	2140	All	100.0	4.672897196261682
+Overweight	Current Overweight	22924	All	1401.0	6.111498865817484
+Overweight	Not known	22422	All	787.0	3.50994558915351
+Overweight	Never Overweight	10009	All	429.0	4.286142471775402
+Overweight	Former Overweight	2061	All	165.0	8.005822416302765
+Gender	Female	31892	Digestive	232.0	0.7274551611689452
+Gender	Male	25524	Digestive	302.0	1.1832001253721987
+Ethnicity	Bangladeshi	33353	Digestive	322.0	0.9654303960663209
+Ethnicity	Pakistani	24063	Digestive	212.0	0.8810206541162781
+BirthCountry	Unknown	36260	Digestive	318.0	0.8769994484280199
+BirthCountry	Bangladesh	14054	Digestive	168.0	1.1953892130354347
+BirthCountry	Pakistan	4297	Digestive	40.0	0.9308820107051431
+BirthCountry	Great Britain	2369	Digestive	6.0	0.2532714225411566
+BirthCountry	Other	351	Digestive	1.0	0.2849002849002849
+BirthCountry	India	85	Digestive	1.0	1.1764705882352942
+Region	London	50174	Digestive	490.0	0.9766014270339219
+Region	Bradford 	5239	Digestive	38.0	0.7253292613094102
+Region	Manchester	1562	Digestive	6.0	0.38412291933418696
+Region		441	Digestive		
+Smoking	Not known	24612	Digestive	147.0	0.5972696245733788
+Smoking	Former Smoker	13761	Digestive	234.0	1.7004578155657293
+Smoking	Non-Smoker	11964	Digestive	63.0	0.526579739217653
+Smoking	Current Smoker	7079	Digestive	90.0	1.2713660121486086
+Alcohol	Not known	27632	Digestive	176.0	0.6369426751592356
+Alcohol	Non-Drinker	20319	Digestive	223.0	1.0974949554604065
+Alcohol	Former Drinker	7325	Digestive	118.0	1.6109215017064846
+Alcohol	Current Drinker	2140	Digestive	17.0	0.794392523364486
+Overweight	Current Overweight	22924	Digestive	287.0	1.251963008201012
+Overweight	Not known	22422	Digestive	113.0	0.503969315850504
+Overweight	Never Overweight	10009	Digestive	91.0	0.9091817364372066
+Overweight	Former Overweight	2061	Digestive	43.0	2.086365841824357
+Gender	Female	31892	Solid	1350.0	4.233036498181362
+Gender	Male	25524	Solid	962.0	3.7690017238677322
+Ethnicity	Bangladeshi	33353	Solid	1225.0	3.6728330285131774
+Ethnicity	Pakistani	24063	Solid	1087.0	4.517308731247143
+BirthCountry	Unknown	36260	Solid	1445.0	3.985107556536128
+BirthCountry	Bangladesh	14054	Solid	576.0	4.098477301835776
+BirthCountry	Pakistan	4297	Solid	213.0	4.956946707004887
+BirthCountry	Great Britain	2369	Solid	57.0	2.406078514140988
+BirthCountry	Other	351	Solid	12.0	3.4188034188034186
+BirthCountry	India	85	Solid	9.0	10.588235294117647
+Region	London	50174	Solid	2064.0	4.1136843783632955
+Region	Bradford 	5239	Solid	196.0	3.741171979385379
+Region	Manchester	1562	Solid	46.0	2.9449423815621
+Region		441	Solid	6.0	1.3605442176870748
+Smoking	Not known	24612	Solid	800.0	3.2504469364537623
+Smoking	Former Smoker	13761	Solid	793.0	5.762662597194971
+Smoking	Non-Smoker	11964	Solid	378.0	3.1594784353059175
+Smoking	Current Smoker	7079	Solid	341.0	4.8170645571408395
+Alcohol	Not known	27632	Solid	930.0	3.365662999420961
+Alcohol	Non-Drinker	20319	Solid	894.0	4.3998228259264724
+Alcohol	Former Drinker	7325	Solid	400.0	5.460750853242321
+Alcohol	Current Drinker	2140	Solid	88.0	4.11214953271028
+Overweight	Current Overweight	22924	Solid	1170.0	5.103821322631304
+Overweight	Not known	22422	Solid	637.0	2.840959771652841
+Overweight	Never Overweight	10009	Solid	365.0	3.6467179538415424
+Overweight	Former Overweight	2061	Solid	140.0	6.792819019893256
+Gender	Female	31892	Colorectal	111.0	0.34804966762824535
+Gender	Male	25524	Colorectal	130.0	0.5093245572794233
+Ethnicity	Bangladeshi	33353	Colorectal	142.0	0.42574880820316013
+Ethnicity	Pakistani	24063	Colorectal	99.0	0.41142002244109216
+BirthCountry	Unknown	36260	Colorectal	143.0	0.39437396580253725
+BirthCountry	Bangladesh	14054	Colorectal	72.0	0.512309662729472
+BirthCountry	Pakistan	4297	Colorectal	21.0	0.4887130556202001
+BirthCountry	Great Britain	2369	Colorectal	3.0	0.1266357112705783
+BirthCountry	Other	351	Colorectal	1.0	0.2849002849002849
+BirthCountry	India	85	Colorectal	1.0	1.1764705882352942
+Region	London	50174	Colorectal	216.0	0.4305018535496472
+Region	Bradford 	5239	Colorectal	23.0	0.4390150792135904
+Region	Manchester	1562	Colorectal	2.0	0.12804097311139565
+Region		441	Colorectal		
+Smoking	Not known	24612	Colorectal	81.0	0.32910775231594347
+Smoking	Former Smoker	13761	Colorectal	100.0	0.7266913741733886
+Smoking	Non-Smoker	11964	Colorectal	32.0	0.2674690738883317
+Smoking	Current Smoker	7079	Colorectal	28.0	0.395536092668456
+Alcohol	Not known	27632	Colorectal	92.0	0.33294730746960044
+Alcohol	Non-Drinker	20319	Colorectal	95.0	0.46754269403021803
+Alcohol	Former Drinker	7325	Colorectal	48.0	0.6552901023890785
+Alcohol	Current Drinker	2140	Colorectal	6.0	0.2803738317757009
+Overweight	Current Overweight	22924	Colorectal	121.0	0.527831094049904
+Overweight	Not known	22422	Colorectal	63.0	0.280974043350281
+Overweight	Never Overweight	10009	Colorectal	39.0	0.3896493156159456
+Overweight	Former Overweight	2061	Colorectal	18.0	0.8733624454148472
+Gender	Female	31892	Non-Melanoma Skin	59.0	0.18499937288348176
+Gender	Male	25524	Non-Melanoma Skin	70.0	0.27425168468892025
+Ethnicity	Bangladeshi	33353	Non-Melanoma Skin	70.0	0.20987617305789585
+Ethnicity	Pakistani	24063	Non-Melanoma Skin	59.0	0.24518971034368117
+BirthCountry	Unknown	36260	Non-Melanoma Skin	71.0	0.19580805295091008
+BirthCountry	Bangladesh	14054	Non-Melanoma Skin	39.0	0.27750106731179736
+BirthCountry	Pakistan	4297	Non-Melanoma Skin	12.0	0.27926460321154295
+BirthCountry	Great Britain	2369	Non-Melanoma Skin	5.0	0.21105951878429718
+BirthCountry	Other	351	Non-Melanoma Skin	2.0	0.5698005698005698
+BirthCountry	India	85	Non-Melanoma Skin		
+Region	London	50174	Non-Melanoma Skin	117.0	0.23318850400605892
+Region	Bradford 	5239	Non-Melanoma Skin	11.0	0.20996373353693454
+Region	Manchester	1562	Non-Melanoma Skin	1.0	0.06402048655569782
+Region		441	Non-Melanoma Skin		
+Smoking	Not known	24612	Non-Melanoma Skin	36.0	0.1462701121404193
+Smoking	Former Smoker	13761	Non-Melanoma Skin	40.0	0.2906765496693554
+Smoking	Non-Smoker	11964	Non-Melanoma Skin	21.0	0.17552657973921765
+Smoking	Current Smoker	7079	Non-Melanoma Skin	32.0	0.4520412487639497
+Alcohol	Not known	27632	Non-Melanoma Skin	44.0	0.1592356687898089
+Alcohol	Non-Drinker	20319	Non-Melanoma Skin	54.0	0.26576111029086075
+Alcohol	Former Drinker	7325	Non-Melanoma Skin	20.0	0.27303754266211605
+Alcohol	Current Drinker	2140	Non-Melanoma Skin	11.0	0.514018691588785
+Overweight	Current Overweight	22924	Non-Melanoma Skin	63.0	0.27482114814168557
+Overweight	Not known	22422	Non-Melanoma Skin	34.0	0.15163678530015165
+Overweight	Never Overweight	10009	Non-Melanoma Skin	22.0	0.2198021780397642
+Overweight	Former Overweight	2061	Non-Melanoma Skin	10.0	0.485201358563804
+Gender	Male	25524	Prostate	196.0	0.7679047171289767
+Ethnicity	Bangladeshi	15444	Prostate	70.0	0.45325045325045327
+Ethnicity	Pakistani	10080	Prostate	126.0	1.25
+BirthCountry	Unknown	15604	Prostate	133.0	0.8523455524224558
+BirthCountry	Bangladesh	6908	Prostate	39.0	0.5645628257093225
+BirthCountry	Pakistan	1952	Prostate	17.0	0.8709016393442623
+BirthCountry	Great Britain	857	Prostate		
+BirthCountry	Other	154	Prostate	3.0	1.948051948051948
+BirthCountry	India	49	Prostate	4.0	8.16326530612245
+Region	London	22729	Prostate	176.0	0.7743411500725945
+Region	Bradford 	1727	Prostate	13.0	0.7527504342790967
+Region	Manchester	905	Prostate	7.0	0.7734806629834254
+Region		163	Prostate		
+Smoking	Not known	10223	Prostate	71.0	0.6945123740584955
+Smoking	Former Smoker	6172	Prostate	71.0	1.1503564484769928
+Smoking	Current Smoker	5358	Prostate	37.0	0.6905561776782382
+Smoking	Non-Smoker	3771	Prostate	17.0	0.45080880403076107
+Alcohol	Not known	12028	Prostate	91.0	0.7565680079813768
+Alcohol	Non-Drinker	8711	Prostate	71.0	0.8150614165997015
+Alcohol	Former Drinker	3634	Prostate	27.0	0.7429829389102917
+Alcohol	Current Drinker	1151	Prostate	7.0	0.6081668114682884
+Overweight	Not known	10118	Prostate	51.0	0.5040521842261316
+Overweight	Current Overweight	9535	Prostate	103.0	1.08023072889355
+Overweight	Never Overweight	4818	Prostate	31.0	0.6434205064342051
+Overweight	Former Overweight	1053	Prostate	11.0	1.0446343779677112
+Gender	Female	31892	Breast	428.0	1.3420293490530542
+Ethnicity	Bangladeshi	17909	Breast	187.0	1.0441677368920654
+Ethnicity	Pakistani	13983	Breast	241.0	1.7235214188657655
+BirthCountry	Unknown	20656	Breast	278.0	1.3458559256390394
+BirthCountry	Bangladesh	7146	Breast	90.0	1.2594458438287153
+BirthCountry	Pakistan	2345	Breast	46.0	1.9616204690831556
+BirthCountry	Great Britain	1512	Breast	12.0	0.7936507936507936
+BirthCountry	Other	197	Breast	2.0	1.015228426395939
+BirthCountry	India	36	Breast		
+Region	London	27445	Breast	360.0	1.311714337766442
+Region	Bradford 	3512	Breast	50.0	1.4236902050113895
+Region	Manchester	657	Breast	15.0	2.2831050228310503
+Region		278	Breast	3.0	1.079136690647482
+Smoking	Not known	14389	Breast	178.0	1.237056084509
+Smoking	Non-Smoker	8193	Breast	83.0	1.0130599292078604
+Smoking	Former Smoker	7589	Breast	138.0	1.8184213993938596
+Smoking	Current Smoker	1721	Breast	29.0	1.68506682161534
+Alcohol	Not known	15604	Breast	188.0	1.2048192771084338
+Alcohol	Non-Drinker	11608	Breast	158.0	1.361130254996554
+Alcohol	Former Drinker	3691	Breast	67.0	1.8152262259550258
+Alcohol	Current Drinker	989	Breast	15.0	1.5166835187057635
+Overweight	Current Overweight	13389	Breast	217.0	1.620733437896781
+Overweight	Not known	12304	Breast	144.0	1.1703511053315996
+Overweight	Never Overweight	5191	Breast	45.0	0.8668849932575612
+Overweight	Former Overweight	1008	Breast	22.0	2.1825396825396823
+Gender	Female	31892	Endocrine	115.0	0.36059199799322716
+Gender	Male	25524	Endocrine	49.0	0.19197617928224417
+Ethnicity	Bangladeshi	33353	Endocrine	106.0	0.31781249063052797
+Ethnicity	Pakistani	24063	Endocrine	58.0	0.2410339525412459
+BirthCountry	Unknown	36260	Endocrine	95.0	0.26199669056811914
+BirthCountry	Bangladesh	14054	Endocrine	47.0	0.33442436317062757
+BirthCountry	Pakistan	4297	Endocrine	10.0	0.23272050267628577
+BirthCountry	Great Britain	2369	Endocrine	12.0	0.5065428450823132
+BirthCountry	Other	351	Endocrine		
+BirthCountry	India	85	Endocrine		
+Region	London	50174	Endocrine	147.0	0.2929804281101766
+Region	Bradford 	5239	Endocrine	12.0	0.22905134567665586
+Region	Manchester	1562	Endocrine	3.0	0.19206145966709348
+Region		441	Endocrine	2.0	0.45351473922902497
+Smoking	Not known	24612	Endocrine	64.0	0.260035754916301
+Smoking	Former Smoker	13761	Endocrine	43.0	0.31247729089455706
+Smoking	Non-Smoker	11964	Endocrine	42.0	0.3510531594784353
+Smoking	Current Smoker	7079	Endocrine	15.0	0.21189433535810143
+Alcohol	Not known	27632	Endocrine	70.0	0.253329473074696
+Alcohol	Non-Drinker	20319	Endocrine	62.0	0.30513312663024755
+Alcohol	Former Drinker	7325	Endocrine	28.0	0.3822525597269625
+Alcohol	Current Drinker	2140	Endocrine	4.0	0.18691588785046728
+Overweight	Current Overweight	22924	Endocrine	77.0	0.33589251439539347
+Overweight	Not known	22422	Endocrine	47.0	0.2096155561502096
+Overweight	Never Overweight	10009	Endocrine	30.0	0.2997302427814967
+Overweight	Former Overweight	2061	Endocrine	10.0	0.485201358563804
+Gender	Female	31892	Urinary	67.0	0.21008403361344538
+Gender	Male	25524	Urinary	145.0	0.5680927754270491
+Ethnicity	Bangladeshi	33353	Urinary	106.0	0.31781249063052797
+Ethnicity	Pakistani	24063	Urinary	106.0	0.44051032705813903
+BirthCountry	Unknown	36260	Urinary	147.0	0.40540540540540543
+BirthCountry	Bangladesh	14054	Urinary	43.0	0.3059627152412125
+BirthCountry	Pakistan	4297	Urinary	19.0	0.44216895508494297
+BirthCountry	Great Britain	2369	Urinary		
+BirthCountry	Other	351	Urinary	2.0	0.5698005698005698
+BirthCountry	India	85	Urinary	1.0	1.1764705882352942
+Region	London	50174	Urinary	186.0	0.37070992944552955
+Region	Bradford 	5239	Urinary	23.0	0.4390150792135904
+Region	Manchester	1562	Urinary	3.0	0.19206145966709348
+Region		441	Urinary		
+Smoking	Not known	24612	Urinary	75.0	0.3047294002925402
+Smoking	Former Smoker	13761	Urinary	71.0	0.5159508756631058
+Smoking	Non-Smoker	11964	Urinary	22.0	0.18388498829822802
+Smoking	Current Smoker	7079	Urinary	44.0	0.6215567170504308
+Alcohol	Not known	27632	Urinary	97.0	0.35104226983207876
+Alcohol	Non-Drinker	20319	Urinary	76.0	0.37403415522417444
+Alcohol	Former Drinker	7325	Urinary	30.0	0.40955631399317405
+Alcohol	Current Drinker	2140	Urinary	9.0	0.4205607476635514
+Overweight	Current Overweight	22924	Urinary	108.0	0.47112196824288954
+Overweight	Not known	22422	Urinary	64.0	0.28543394880028544
+Overweight	Never Overweight	10009	Urinary	30.0	0.2997302427814967
+Overweight	Former Overweight	2061	Urinary	10.0	0.485201358563804
+Gender	Female	31892	Skin	72.0	0.22576194656967263
+Gender	Male	25524	Skin	87.0	0.34085566525622946
+Ethnicity	Bangladeshi	33353	Skin	86.0	0.2578478697568435
+Ethnicity	Pakistani	24063	Skin	73.0	0.303370319577775
+BirthCountry	Unknown	36260	Skin	91.0	0.25096525096525096
+BirthCountry	Bangladesh	14054	Skin	46.0	0.3273089511882738
+BirthCountry	Pakistan	4297	Skin	15.0	0.3490807540144287
+BirthCountry	Great Britain	2369	Skin	5.0	0.21105951878429718
+BirthCountry	Other	351	Skin	2.0	0.5698005698005698
+BirthCountry	India	85	Skin		
+Region	London	50174	Skin	147.0	0.2929804281101766
+Region	Bradford 	5239	Skin	11.0	0.20996373353693454
+Region	Manchester	1562	Skin	1.0	0.06402048655569782
+Region		441	Skin		
+Smoking	Not known	24612	Skin	42.0	0.17064846416382254
+Smoking	Former Smoker	13761	Skin	47.0	0.34154494586149264
+Smoking	Non-Smoker	11964	Skin	33.0	0.275827482447342
+Smoking	Current Smoker	7079	Skin	37.0	0.5226726938833168
+Alcohol	Not known	27632	Skin	53.0	0.19180660104226982
+Alcohol	Non-Drinker	20319	Skin	71.0	0.34942664501205767
+Alcohol	Former Drinker	7325	Skin	23.0	0.31399317406143346
+Alcohol	Current Drinker	2140	Skin	12.0	0.5607476635514018
+Overweight	Current Overweight	22924	Skin	73.0	0.3184435526086198
+Overweight	Not known	22422	Skin	45.0	0.2006957452502007
+Overweight	Never Overweight	10009	Skin	29.0	0.2897392346887801
+Overweight	Former Overweight	2061	Skin	12.0	0.5822416302765647
+Gender	Female	31892	Ovarian	117.0	0.36686316317571804
+Ethnicity	Bangladeshi	17909	Ovarian	64.0	0.35736222011279245
+Ethnicity	Pakistani	13983	Ovarian	53.0	0.37903168132732606
+BirthCountry	Unknown	20656	Ovarian	75.0	0.36309062742060416
+BirthCountry	Bangladesh	7146	Ovarian	21.0	0.2938706968933669
+BirthCountry	Pakistan	2345	Ovarian	14.0	0.5970149253731343
+BirthCountry	Great Britain	1512	Ovarian	4.0	0.26455026455026454
+BirthCountry	Other	197	Ovarian		
+BirthCountry	India	36	Ovarian	3.0	8.333333333333334
+Region	London	27445	Ovarian	108.0	0.3935143013299326
+Region	Bradford 	3512	Ovarian	5.0	0.14236902050113895
+Region	Manchester	657	Ovarian	3.0	0.45662100456621
+Region		278	Ovarian	1.0	0.3597122302158273
+Smoking	Not known	14389	Ovarian	41.0	0.2849398846340955
+Smoking	Non-Smoker	8193	Ovarian	25.0	0.30513853289393383
+Smoking	Former Smoker	7589	Ovarian	45.0	0.5929634998023455
+Smoking	Current Smoker	1721	Ovarian	6.0	0.3486345148169669
+Alcohol	Not known	15604	Ovarian	44.0	0.2819789797487824
+Alcohol	Non-Drinker	11608	Ovarian	51.0	0.4393521709166092
+Alcohol	Former Drinker	3691	Ovarian	17.0	0.4605797886751558
+Alcohol	Current Drinker	989	Ovarian	5.0	0.5055611729019212
+Overweight	Current Overweight	13389	Ovarian	72.0	0.5377548734035402
+Overweight	Not known	12304	Ovarian	29.0	0.23569570871261378
+Overweight	Never Overweight	5191	Ovarian	13.0	0.2504334424966288
+Overweight	Former Overweight	1008	Ovarian	3.0	0.2976190476190476
+Gender	Female	31892	Respiratory	47.0	0.14737238178853632
+Gender	Male	25524	Respiratory	102.0	0.3996238834038552
+Ethnicity	Bangladeshi	33353	Respiratory	104.0	0.31181602854315954
+Ethnicity	Pakistani	24063	Respiratory	45.0	0.18700910110958732
+BirthCountry	Unknown	36260	Respiratory	89.0	0.24544953116381688
+BirthCountry	Bangladesh	14054	Respiratory	45.0	0.32019353920592003
+BirthCountry	Pakistan	4297	Respiratory	12.0	0.27926460321154295
+BirthCountry	Great Britain	2369	Respiratory	2.0	0.08442380751371886
+BirthCountry	Other	351	Respiratory	1.0	0.2849002849002849
+BirthCountry	India	85	Respiratory		
+Region	London	50174	Respiratory	143.0	0.2850081715629609
+Region	Bradford 	5239	Respiratory	4.0	0.07635044855888529
+Region	Manchester	1562	Respiratory	2.0	0.12804097311139565
+Region		441	Respiratory		
+Smoking	Not known	24612	Respiratory	23.0	0.09345034942304567
+Smoking	Former Smoker	13761	Respiratory	61.0	0.443281738245767
+Smoking	Non-Smoker	11964	Respiratory	18.0	0.15045135406218657
+Smoking	Current Smoker	7079	Respiratory	47.0	0.6639355841220511
+Alcohol	Not known	27632	Respiratory	41.0	0.14837869137232196
+Alcohol	Non-Drinker	20319	Respiratory	66.0	0.32481913479994096
+Alcohol	Former Drinker	7325	Respiratory	34.0	0.4641638225255973
+Alcohol	Current Drinker	2140	Respiratory	8.0	0.37383177570093457
+Overweight	Current Overweight	22924	Respiratory	71.0	0.30971907171523294
+Overweight	Not known	22422	Respiratory	28.0	0.12487735260012488
+Overweight	Never Overweight	10009	Respiratory	35.0	0.3496852832450794
+Overweight	Former Overweight	2061	Respiratory	15.0	0.727802037845706
+Gender	Female	31892	Kidney	57.0	0.17872820770099085
+Gender	Male	25524	Kidney	125.0	0.4897351512302147
+Ethnicity	Bangladeshi	33353	Kidney	89.0	0.26684256288789615
+Ethnicity	Pakistani	24063	Kidney	93.0	0.3864854756264805
+BirthCountry	Unknown	36260	Kidney	125.0	0.34473248758963043
+BirthCountry	Bangladesh	14054	Kidney	37.0	0.2632702433470898
+BirthCountry	Pakistan	4297	Kidney	17.0	0.3956248545496858
+BirthCountry	Great Britain	2369	Kidney		
+BirthCountry	Other	351	Kidney	2.0	0.5698005698005698
+BirthCountry	India	85	Kidney	1.0	1.1764705882352942
+Region	London	50174	Kidney	158.0	0.31490413361501973
+Region	Bradford 	5239	Kidney	22.0	0.4199274670738691
+Region	Manchester	1562	Kidney	2.0	0.12804097311139565
+Region		441	Kidney		
+Smoking	Not known	24612	Kidney	65.0	0.2640988135868682
+Smoking	Former Smoker	13761	Kidney	63.0	0.4578155657292348
+Smoking	Non-Smoker	11964	Kidney	17.0	0.1420929455031762
+Smoking	Current Smoker	7079	Kidney	37.0	0.5226726938833168
+Alcohol	Not known	27632	Kidney	85.0	0.30761436016213084
+Alcohol	Non-Drinker	20319	Kidney	61.0	0.3002116245878242
+Alcohol	Former Drinker	7325	Kidney	27.0	0.36860068259385664
+Alcohol	Current Drinker	2140	Kidney	9.0	0.4205607476635514
+Overweight	Current Overweight	22924	Kidney	94.0	0.41005060198918164
+Overweight	Not known	22422	Kidney	55.0	0.2452947997502453
+Overweight	Never Overweight	10009	Kidney	24.0	0.2397841942251973
+Overweight	Former Overweight	2061	Kidney	9.0	0.4366812227074236
+Gender	Female	31892	Uterine	102.0	0.31982942430703626
+Ethnicity	Bangladeshi	17909	Uterine	36.0	0.20101624881344576
+Ethnicity	Pakistani	13983	Uterine	66.0	0.4720017163698777
+BirthCountry	Unknown	20656	Uterine	68.0	0.3292021688613478
+BirthCountry	Bangladesh	7146	Uterine	11.0	0.15393226980128744
+BirthCountry	Pakistan	2345	Uterine	17.0	0.7249466950959488
+BirthCountry	Great Britain	1512	Uterine	4.0	0.26455026455026454
+BirthCountry	Other	197	Uterine	2.0	1.015228426395939
+BirthCountry	India	36	Uterine		
+Region	London	27445	Uterine	85.0	0.3097103297504099
+Region	Bradford 	3512	Uterine	14.0	0.39863325740318906
+Region	Manchester	657	Uterine	1.0	0.15220700152207
+Region		278	Uterine	2.0	0.7194244604316546
+Smoking	Not known	14389	Uterine	43.0	0.29883939120161235
+Smoking	Non-Smoker	8193	Uterine	21.0	0.25631636763090443
+Smoking	Former Smoker	7589	Uterine	33.0	0.4348398998550534
+Smoking	Current Smoker	1721	Uterine	5.0	0.2905287623474724
+Alcohol	Not known	15604	Uterine	46.0	0.29479620610099977
+Alcohol	Non-Drinker	11608	Uterine	35.0	0.30151619572708477
+Alcohol	Former Drinker	3691	Uterine	16.0	0.4334868599295584
+Alcohol	Current Drinker	989	Uterine	5.0	0.5055611729019212
+Overweight	Current Overweight	13389	Uterine	59.0	0.44066024348345656
+Overweight	Not known	12304	Uterine	34.0	0.276332899869961
+Overweight	Never Overweight	5191	Uterine	4.0	0.07705644384511655
+Overweight	Former Overweight	1008	Uterine	5.0	0.49603174603174605
+Gender	Female	31892	Secondary	281.0	0.8810987081399724
+Gender	Male	25524	Secondary	198.0	0.7757404795486601
+Ethnicity	Bangladeshi	33353	Secondary	259.0	0.7765418403142146
+Ethnicity	Pakistani	24063	Secondary	220.0	0.9142667165357603
+BirthCountry	Unknown	36260	Secondary	309.0	0.8521787093215665
+BirthCountry	Bangladesh	14054	Secondary	125.0	0.8894264977942223
+BirthCountry	Pakistan	4297	Secondary	35.0	0.8145217593670002
+BirthCountry	Great Britain	2369	Secondary	7.0	0.29548332629801605
+BirthCountry	Other	351	Secondary	1.0	0.2849002849002849
+BirthCountry	India	85	Secondary	2.0	2.3529411764705883
+Region	London	50174	Secondary	438.0	0.872962091920118
+Region	Bradford 	5239	Secondary	37.0	0.7062416491696889
+Region	Manchester	1562	Secondary	4.0	0.2560819462227913
+Region		441	Secondary		
+Smoking	Not known	24612	Secondary	148.0	0.6013326832439461
+Smoking	Former Smoker	13761	Secondary	171.0	1.2426422498364944
+Smoking	Non-Smoker	11964	Secondary	84.0	0.7021063189568706
+Smoking	Current Smoker	7079	Secondary	76.0	1.0735979658143806
+Alcohol	Not known	27632	Secondary	183.0	0.6622756224667052
+Alcohol	Non-Drinker	20319	Secondary	180.0	0.8858703676362025
+Alcohol	Former Drinker	7325	Secondary	98.0	1.3378839590443685
+Alcohol	Current Drinker	2140	Secondary	18.0	0.8411214953271028
+Overweight	Current Overweight	22924	Secondary	260.0	1.1341825161402896
+Overweight	Not known	22422	Secondary	118.0	0.5262688431005262
+Overweight	Never Overweight	10009	Secondary	61.0	0.6094514936557098
+Overweight	Former Overweight	2061	Secondary	40.0	1.940805434255216
+Gender	Female	31892	Gynaecological	361.0	1.1319453154396086
+Ethnicity	Bangladeshi	17909	Gynaecological	179.0	0.9994974593779664
+Ethnicity	Pakistani	13983	Gynaecological	182.0	1.3015804905957233
+BirthCountry	Unknown	20656	Gynaecological	224.0	1.0844306738962044
+BirthCountry	Bangladesh	7146	Gynaecological	72.0	1.0075566750629723
+BirthCountry	Pakistan	2345	Gynaecological	44.0	1.8763326226012793
+BirthCountry	Great Britain	1512	Gynaecological	15.0	0.9920634920634921
+BirthCountry	Other	197	Gynaecological	3.0	1.5228426395939085
+BirthCountry	India	36	Gynaecological	3.0	8.333333333333334
+Region	London	27445	Gynaecological	319.0	1.1623246492985972
+Region	Bradford 	3512	Gynaecological	34.0	0.9681093394077449
+Region	Manchester	657	Gynaecological	6.0	0.91324200913242
+Region		278	Gynaecological	2.0	0.7194244604316546
+Smoking	Not known	14389	Gynaecological	134.0	0.9312669400236292
+Smoking	Non-Smoker	8193	Gynaecological	93.0	1.1351153423654339
+Smoking	Former Smoker	7589	Gynaecological	114.0	1.5021741994992752
+Smoking	Current Smoker	1721	Gynaecological	20.0	1.1621150493898895
+Alcohol	Not known	15604	Gynaecological	145.0	0.9292489105357601
+Alcohol	Non-Drinker	11608	Gynaecological	143.0	1.231909028256375
+Alcohol	Former Drinker	3691	Gynaecological	54.0	1.4630181522622596
+Alcohol	Current Drinker	989	Gynaecological	19.0	1.9211324570273003
+Overweight	Current Overweight	13389	Gynaecological	192.0	1.4340129957427739
+Overweight	Not known	12304	Gynaecological	104.0	0.8452535760728218
+Overweight	Never Overweight	5191	Gynaecological	49.0	0.9439414371026777
+Overweight	Former Overweight	1008	Gynaecological	16.0	1.5873015873015872
+Gender	Female	31892	Bladder	50.0	0.15677912956227266
+Gender	Male	25524	Bladder	113.0	0.44272057671211407
+Ethnicity	Bangladeshi	33353	Bladder	73.0	0.21887086618894852
+Ethnicity	Pakistani	24063	Bladder	90.0	0.37401820221917464
+BirthCountry	Unknown	36260	Bladder	111.0	0.30612244897959184
+BirthCountry	Bangladesh	14054	Bladder	33.0	0.23480859541767468
+BirthCountry	Pakistan	4297	Bladder	16.0	0.37235280428205725
+BirthCountry	Great Britain	2369	Bladder		
+BirthCountry	Other	351	Bladder	2.0	0.5698005698005698
+BirthCountry	India	85	Bladder	1.0	1.1764705882352942
+Region	London	50174	Bladder	139.0	0.2770359150157452
+Region	Bradford 	5239	Bladder	22.0	0.4199274670738691
+Region	Manchester	1562	Bladder	2.0	0.12804097311139565
+Region		441	Bladder		
+Smoking	Not known	24612	Bladder	57.0	0.23159434422233058
+Smoking	Former Smoker	13761	Bladder	52.0	0.37787951457016206
+Smoking	Non-Smoker	11964	Bladder	13.0	0.10865931126713474
+Smoking	Current Smoker	7079	Bladder	41.0	0.5791778499788106
+Alcohol	Not known	27632	Bladder	78.0	0.28228141285466124
+Alcohol	Non-Drinker	20319	Bladder	53.0	0.26083960824843744
+Alcohol	Former Drinker	7325	Bladder	24.0	0.32764505119453924
+Alcohol	Current Drinker	2140	Bladder	8.0	0.37383177570093457
+Overweight	Current Overweight	22924	Bladder	79.0	0.3446169952887803
+Overweight	Not known	22422	Bladder	51.0	0.22745517795022746
+Overweight	Never Overweight	10009	Bladder	24.0	0.2397841942251973
+Overweight	Former Overweight	2061	Bladder	9.0	0.4366812227074236
+Gender	Female	31892	Haematological	236.0	0.739997491533927
+Gender	Male	25524	Haematological	279.0	1.0930888575458393
+Ethnicity	Bangladeshi	33353	Haematological	242.0	0.7255719125715827
+Ethnicity	Pakistani	24063	Haematological	273.0	1.1345218800648298
+BirthCountry	Unknown	36260	Haematological	333.0	0.9183673469387755
+BirthCountry	Bangladesh	14054	Haematological	109.0	0.7755799060765618
+BirthCountry	Pakistan	4297	Haematological	53.0	1.2334186641843146
+BirthCountry	Great Britain	2369	Haematological	16.0	0.6753904601097509
+BirthCountry	Other	351	Haematological	1.0	0.2849002849002849
+BirthCountry	India	85	Haematological	3.0	3.5294117647058822
+Region	London	50174	Haematological	459.0	0.9148164387930003
+Region	Bradford 	5239	Haematological	42.0	0.8016797098682955
+Region	Manchester	1562	Haematological	11.0	0.704225352112676
+Region		441	Haematological	3.0	0.6802721088435374
+Smoking	Not known	24612	Haematological	194.0	0.7882333820900373
+Smoking	Former Smoker	13761	Haematological	164.0	1.1917738536443572
+Smoking	Non-Smoker	11964	Haematological	74.0	0.6185222333667669
+Smoking	Current Smoker	7079	Haematological	83.0	1.1724819889814946
+Alcohol	Not known	27632	Haematological	233.0	0.8432252460914881
+Alcohol	Non-Drinker	20319	Haematological	178.0	0.8760273635513559
+Alcohol	Former Drinker	7325	Haematological	86.0	1.174061433447099
+Alcohol	Current Drinker	2140	Haematological	18.0	0.8411214953271028
+Overweight	Current Overweight	22924	Haematological	269.0	1.1734426801605304
+Overweight	Not known	22422	Haematological	156.0	0.6957452502006958
+Overweight	Never Overweight	10009	Haematological	62.0	0.6194425017484264
+Overweight	Former Overweight	2061	Haematological	28.0	1.3585638039786512
+Gender	Female	31892	Lung	37.0	0.11601655587608177
+Gender	Male	25524	Lung	93.0	0.3643629525152797
+Ethnicity	Bangladeshi	33353	Lung	87.0	0.26084610080052767
+Ethnicity	Pakistani	24063	Lung	43.0	0.1786975855047168
+BirthCountry	Unknown	36260	Lung	78.0	0.2151130722559294
+BirthCountry	Bangladesh	14054	Lung	38.0	0.2703856553294436
+BirthCountry	Pakistan	4297	Lung	12.0	0.27926460321154295
+BirthCountry	Great Britain	2369	Lung	1.0	0.04221190375685943
+BirthCountry	Other	351	Lung	1.0	0.2849002849002849
+BirthCountry	India	85	Lung		
+Region	London	50174	Lung	125.0	0.2491330171004903
+Region	Bradford 	5239	Lung	4.0	0.07635044855888529
+Region	Manchester	1562	Lung	1.0	0.06402048655569782
+Region		441	Lung		
+Smoking	Not known	24612	Lung	19.0	0.07719811474077685
+Smoking	Former Smoker	13761	Lung	52.0	0.37787951457016206
+Smoking	Non-Smoker	11964	Lung	15.0	0.12537612838515547
+Smoking	Current Smoker	7079	Lung	44.0	0.6215567170504308
+Alcohol	Not known	27632	Lung	36.0	0.13028372900984367
+Alcohol	Non-Drinker	20319	Lung	58.0	0.28544711846055415
+Alcohol	Former Drinker	7325	Lung	31.0	0.4232081911262799
+Alcohol	Current Drinker	2140	Lung	5.0	0.2336448598130841
+Overweight	Current Overweight	22924	Lung	61.0	0.2660966672482987
+Overweight	Not known	22422	Lung	23.0	0.10257782535010258
+Overweight	Never Overweight	10009	Lung	31.0	0.3097212508742132
+Overweight	Former Overweight	2061	Lung	15.0	0.727802037845706
+Gender	Female	31892	Lymphoma	72.0	0.22576194656967263
+Gender	Male	25524	Lymphoma	121.0	0.4740636263908478
+Ethnicity	Bangladeshi	33353	Lymphoma	84.0	0.251851407669475
+Ethnicity	Pakistani	24063	Lymphoma	109.0	0.4529776004654449
+BirthCountry	Unknown	36260	Lymphoma	125.0	0.34473248758963043
+BirthCountry	Bangladesh	14054	Lymphoma	37.0	0.2632702433470898
+BirthCountry	Pakistan	4297	Lymphoma	22.0	0.5119851058878288
+BirthCountry	Great Britain	2369	Lymphoma	8.0	0.33769523005487545
+BirthCountry	Other	351	Lymphoma		
+BirthCountry	India	85	Lymphoma	1.0	1.1764705882352942
+Region	London	50174	Lymphoma	174.0	0.3467931598038825
+Region	Bradford 	5239	Lymphoma	13.0	0.24813895781637718
+Region	Manchester	1562	Lymphoma	5.0	0.3201024327784891
+Region		441	Lymphoma	1.0	0.22675736961451248
+Smoking	Not known	24612	Lymphoma	76.0	0.3087924589631074
+Smoking	Former Smoker	13761	Lymphoma	67.0	0.48688322069617035
+Smoking	Non-Smoker	11964	Lymphoma	21.0	0.17552657973921765
+Smoking	Current Smoker	7079	Lymphoma	29.0	0.40966238169232944
+Alcohol	Not known	27632	Lymphoma	90.0	0.32570932252460916
+Alcohol	Non-Drinker	20319	Lymphoma	66.0	0.32481913479994096
+Alcohol	Former Drinker	7325	Lymphoma	32.0	0.43686006825938567
+Alcohol	Current Drinker	2140	Lymphoma	5.0	0.2336448598130841
+Overweight	Current Overweight	22924	Lymphoma	100.0	0.43622404466934217
+Overweight	Not known	22422	Lymphoma	61.0	0.27205423245027205
+Overweight	Never Overweight	10009	Lymphoma	19.0	0.18982915376161455
+Overweight	Former Overweight	2061	Lymphoma	13.0	0.6307617661329452
+Gender	Male	25524	Male genital	222.0	0.8697696285848613
+Ethnicity	Bangladeshi	15444	Male genital	79.0	0.5115255115255115
+Ethnicity	Pakistani	10080	Male genital	143.0	1.4186507936507937
+BirthCountry	Unknown	15604	Male genital	153.0	0.9805178159446296
+BirthCountry	Bangladesh	6908	Male genital	43.0	0.6224667052692531
+BirthCountry	Pakistan	1952	Male genital	18.0	0.9221311475409836
+BirthCountry	Great Britain	857	Male genital	1.0	0.11668611435239207
+BirthCountry	Other	154	Male genital	3.0	1.948051948051948
+BirthCountry	India	49	Male genital	4.0	8.16326530612245
+Region	London	22729	Male genital	198.0	0.8711337938316688
+Region	Bradford 	1727	Male genital	17.0	0.9843659525188188
+Region	Manchester	905	Male genital	7.0	0.7734806629834254
+Region		163	Male genital		
+Smoking	Not known	10223	Male genital	77.0	0.7532035605986501
+Smoking	Former Smoker	6172	Male genital	81.0	1.3123784834737524
+Smoking	Current Smoker	5358	Male genital	44.0	0.8212019410227697
+Smoking	Non-Smoker	3771	Male genital	20.0	0.5303632988597189
+Alcohol	Not known	12028	Male genital	100.0	0.8313934153641503
+Alcohol	Non-Drinker	8711	Male genital	80.0	0.9183790609574102
+Alcohol	Former Drinker	3634	Male genital	34.0	0.9356081452944414
+Alcohol	Current Drinker	1151	Male genital	8.0	0.6950477845351868
+Overweight	Not known	10118	Male genital	59.0	0.5831191935165052
+Overweight	Current Overweight	9535	Male genital	119.0	1.2480335605663346
+Overweight	Never Overweight	4818	Male genital	32.0	0.66417600664176
+Overweight	Former Overweight	1053	Male genital	12.0	1.1396011396011396
+Gender	Female	31892	Thyroid	87.0	0.2727956854383545
+Gender	Male	25524	Thyroid	34.0	0.13320796113461839
+Ethnicity	Bangladeshi	33353	Thyroid	78.0	0.23386202140736964
+Ethnicity	Pakistani	24063	Thyroid	43.0	0.1786975855047168
+BirthCountry	Unknown	36260	Thyroid	72.0	0.19856591285162714
+BirthCountry	Bangladesh	14054	Thyroid	35.0	0.24903941938238225
+BirthCountry	Pakistan	4297	Thyroid	8.0	0.18617640214102862
+BirthCountry	Great Britain	2369	Thyroid	6.0	0.2532714225411566
+BirthCountry	Other	351	Thyroid		
+BirthCountry	India	85	Thyroid		
+Region	London	50174	Thyroid	106.0	0.21126479850121577
+Region	Bradford 	5239	Thyroid	11.0	0.20996373353693454
+Region	Manchester	1562	Thyroid	3.0	0.19206145966709348
+Region		441	Thyroid	1.0	0.22675736961451248
+Smoking	Not known	24612	Thyroid	51.0	0.20721599219892736
+Smoking	Former Smoker	13761	Thyroid	26.0	0.18893975728508103
+Smoking	Non-Smoker	11964	Thyroid	34.0	0.2841858910063524
+Smoking	Current Smoker	7079	Thyroid	10.0	0.14126289023873428
+Alcohol	Not known	27632	Thyroid	56.0	0.2026635784597568
+Alcohol	Non-Drinker	20319	Thyroid	45.0	0.22146759190905063
+Alcohol	Former Drinker	7325	Thyroid	17.0	0.23208191126279865
+Alcohol	Current Drinker	2140	Thyroid	3.0	0.14018691588785046
+Overweight	Current Overweight	22924	Thyroid	58.0	0.25300994590821846
+Overweight	Not known	22422	Thyroid	36.0	0.16055659620016055
+Overweight	Never Overweight	10009	Thyroid	22.0	0.2198021780397642
+Overweight	Former Overweight	2061	Thyroid	5.0	0.242600679281902
+Gender	Female	31892	Cervical	137.0	0.4295748150006271
+Ethnicity	Bangladeshi	17909	Cervical	75.0	0.41878385169467863
+Ethnicity	Pakistani	13983	Cervical	62.0	0.4433955517414003
+BirthCountry	Unknown	20656	Cervical	81.0	0.3921378776142525
+BirthCountry	Bangladesh	7146	Cervical	35.0	0.4897844948222782
+BirthCountry	Pakistan	2345	Cervical	13.0	0.5543710021321961
+BirthCountry	Great Britain	1512	Cervical	7.0	0.46296296296296297
+BirthCountry	Other	197	Cervical	1.0	0.5076142131979695
+BirthCountry	India	36	Cervical		
+Region	London	27445	Cervical	122.0	0.4445254144652942
+Region	Bradford 	3512	Cervical	13.0	0.3701594533029613
+Region	Manchester	657	Cervical	2.0	0.30441400304414
+Region		278	Cervical		
+Smoking	Not known	14389	Cervical	45.0	0.3127388977691292
+Smoking	Non-Smoker	8193	Cervical	46.0	0.5614549005248383
+Smoking	Former Smoker	7589	Cervical	37.0	0.48754776650415077
+Smoking	Current Smoker	1721	Cervical	9.0	0.5229517722254503
+Alcohol	Not known	15604	Cervical	50.0	0.32043065880543453
+Alcohol	Non-Drinker	11608	Cervical	57.0	0.4910406616126809
+Alcohol	Former Drinker	3691	Cervical	23.0	0.6231373611487402
+Alcohol	Current Drinker	989	Cervical	7.0	0.7077856420626896
+Overweight	Current Overweight	13389	Cervical	64.0	0.47800433191425795
+Overweight	Not known	12304	Cervical	35.0	0.28446033810143045
+Overweight	Never Overweight	5191	Cervical	28.0	0.5393951069158158
+Overweight	Former Overweight	1008	Cervical	10.0	0.9920634920634921
