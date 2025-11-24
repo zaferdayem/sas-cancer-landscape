@@ -50,7 +50,7 @@ This resource provides a notebook for downstream analysis of clinical and genomi
 
 ## Prerequisites
 - Python 3.9+
-- 
+
 ## Directory structure
 
 ## Input Folder Paths in Notebook
@@ -66,13 +66,13 @@ This resource provides a notebook for downstream analysis of clinical and genomi
 
 ## Output Folder Paths in Notebook
 
-**Figures**: Saved inplots/publication/ and subfolders.
+**Figures**: Saved in plots/publication/ and subfolders.
 
 **Processed Tables**: Saved in text/ for downstream interpretation.
 
 ## Usage
 
-Create directories as the directory structure provided here.
+Create input and output directories and subdirectories as the respoitory.
 
 Open and run the notebook SouthAsian_Cancer_Analysis.ipynb.
 
