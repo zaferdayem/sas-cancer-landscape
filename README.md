@@ -50,6 +50,8 @@ This resource provides a notebook for downstream analysis of clinical and genomi
 
 ## Prerequisites
 - Python 3.9+
+- 
+## Directory structure
 
 ## Input Folder Paths in Notebook
 
