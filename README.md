@@ -50,3 +50,21 @@ This resource provides a notebook for downstream analysis of clinical and genomi
 
 ---
 
+
+---
+
+## Prerequisites
+- Python 3.9+
+
+## License
+This project is provided for research purposes. Please cite appropriately when using data or figures derived from this analysis.
+
+
+## Author
+
+Abu ZM Dayem Ullah
+Barts Cancer Institute
+Contact: d.ullah@qmul.ac.uk
+
+
+
