@@ -51,9 +51,7 @@ This resource provides a notebook for downstream analysis of clinical and genomi
 ## Prerequisites
 - Python 3.9+
 
-## Directory structure
-
-## Input Folder Paths in Notebook
+## Input Folder Paths
 
 **result_path**: Directory containing input CSV/TSV files for comorbidities, prevalence, XWAS, PheWAS, and GEL results.
 
@@ -64,7 +62,7 @@ This resource provides a notebook for downstream analysis of clinical and genomi
 **manhattan_path**: Subdirectory for Manhattan plot-related ExWAS and PheWAS summary stastics files (only one provided for demonstration reason)
 
 
-## Output Folder Paths in Notebook
+## Output Folder Paths
 
 **Figures**: Saved in plots/publication/ and subfolders.
 
